@@ -10,6 +10,7 @@ namespace MyGitDemo.Controllers
     {
         public ActionResult Index()
         {
+            //This is from Master
             return View();
         }
         //comment
