@@ -10,6 +10,7 @@ namespace MyGitDemo.Controllers
     {
         public ActionResult Index()
         {
+            //this is from dev1
             return View();
         }
         //comment
